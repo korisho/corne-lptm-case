@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store
+
+# misc
+**/tmp
+
+# emacs
+**/#*
+**/.#*
+
+# slicer
+**/*.gcode
+
+# build files
+**/.build
