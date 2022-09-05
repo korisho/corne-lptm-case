@@ -22,3 +22,13 @@ Inspiration taken from:
 
 Code adapted from [github.com/ibnuda/wadah-jagung](https://github.com/ibnuda/wadah-jagung)
 
+## Setup
+
+The case is built using [OpenSCAD](https://openscad.org).
+
+Install the software and make sure `openscad` is in your PATH (note all lowercase).
+
+
+## Build
+
+Simply run `make` to build the STL files.
